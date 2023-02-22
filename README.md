@@ -1,5 +1,3 @@
----
-
 <div align="center">
   <img align="center"  width="auto" height="auto" src="https://nuwe.io/images/Group-3-3.png" />
   <br/>
